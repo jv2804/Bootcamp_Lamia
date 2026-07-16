@@ -7,7 +7,7 @@
 
 # import pacote.sub.arquivo
 
-#import tipos.variaveis
+# import tipos.variaveis
 
 # Faz a mesma coisa que o comando import tipos.variaveis mas coloca tambem o basicos
 #from tipos import variaveis, basicos
