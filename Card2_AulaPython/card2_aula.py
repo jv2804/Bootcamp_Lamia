@@ -8,10 +8,8 @@
 # import pacote.sub.arquivo
 
 # import tipos.variaveis
-
 # Faz a mesma coisa que o comando import tipos.variaveis mas coloca tambem o basicos
-#from tipos import variaveis, basicos
-
+#from tipos import variaveis,basicos
 # import tipos.lista
 # import tipos.tuplas
 # import tipos.conjuntos
@@ -57,4 +55,4 @@
 
 # import oo.produto
 # import oo.heranca
-import oo.membros
+# import oo.membros
