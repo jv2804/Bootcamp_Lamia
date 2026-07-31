@@ -6,54 +6,54 @@ print('Bem vindo!')
 # importa um pacote/módulo para esse módulo
 import pacote.sub.arquivo_aula
 
-# import pacote.sub.arquivo
+import pacote.sub.arquivo_aula
 
-# import tipos.variaveis
+import tipos.variaveis_aula
 # Faz a mesma coisa que o comando import tipos.variaveis mas coloca tambem o basicos
 #from tipos import variaveis,basicos
-# import tipos.lista
-# import tipos.tuplas
-# import tipos.conjuntos
-# import tipos.dicionario
+import tipos.lista_aula
+import tipos.tuplas_aula
+import tipos.conjuntos_aula
+import tipos.dicionario_aula
 
-# import operadores.unarios
-# import operadores.aritmeticos
-# import operadores.relacionais
-# import operadores.atribuicao
-# import operadores.logicos
-# import operadores.ternario
+import operadores.unarios_aula
+import operadores.aritmeticos_aula
+import operadores.relacionais_aula
+import operadores.atribuicao_aula
+import operadores.logicos_aula
+import operadores.ternario_aula
 
-# import controle.if_1
-# import controle.if_2
-# import controle.for_1
-# import controle.while_1
-#import controle.outros_exemplos
+import controle.if_1_aula
+import controle.if_2_aula
+import controle.for_1_aula
+import controle.while_1_aula
+import controle.outros_exemplos_aula
 
-# from funcoes import basico
+from funcoes import basico_aula
 
-# basico.saudacao()
-# basico.saudacao('Maria')
-# basico.saudacao('João', 33)
-# basico.saudacao(idade = 33)
+basico_aula.saudacao()
+basico_aula.saudacao('Maria')
+basico_aula.saudacao('João', 33)
+basico_aula.saudacao(idade = 33)
 
-# a = basico.soma_e_multi(x=10, a=2, b=3)
-# b = basico.soma_e_multi(x=20, a=3, b=7)
-# resultado = a + b
-# print(resultado)
+a = basico_aula.soma_e_multi(x=10, a=2, b=3)
+b = basico_aula.soma_e_multi(x=20, a=3, b=7)
+resultado = a + b
+print(resultado)
 
-#from funcoes import args
+from funcoes import args_aula
 
-#s = args.soma(1, 2, 3, 7, 8, 9, 10)
-#print(s)
+s = args_aula.soma(1, 2, 3, 7, 8, 9, 10)
+print(s)
 
-#resultado = args.resultado_final(nome='Pedro', nota=6.3)
-#print(resultado)
+resultado = args_aula.resultado_final(nome='Pedro', nota=6.3)
+print(resultado)
 
-# from funcoes import funcional
-# import funcoes.map_reduce
-# import funcoes.lambdas
-#import funcoes.comprehension
+from funcoes import funcional_aula
+import funcoes.map_reduce_aula
+import funcoes.lambdas_aula
+import funcoes.comprehension_aula
 
-# import oo.produto
-# import oo.heranca
-# import oo.membros
+import oo.produto_aula
+import oo.heranca_aula
+import oo.membros_aula
